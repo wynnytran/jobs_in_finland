@@ -212,7 +212,7 @@ section {
 .job-category__text,
 .job-region__text {
 	color: var(--whiteColor);
-	font-size: 1.5rem;
+	font-size: 1.0rem;
 	line-height: 1.2;
 	position: absolute;
 	bottom: 15%;
